@@ -8,6 +8,7 @@ This repository contains my current and on-going Data Analytics projects. My cur
 ### Advanced Business Analytics:
 
 - [GMAT Analysis Report](https://github.com/ephremglu/Data-Analytics/blob/main/GMAT%20Analysis%20Report.pdf)
+- [Highway Headlights Analysis Report](https://github.com/ephremglu/Data-Analytics/blob/main/Headlights%20Analysis%20Report.pdf)
 
 ## License & Copywrite
 
