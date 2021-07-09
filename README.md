@@ -41,6 +41,17 @@ This repository contains my current and on-going Data Analytics projects. My cur
 - [Production and Distribution Spreadsheet Analysis Report](https://github.com/ephremglu/Data-Analytics/blob/main/Production%20and%20Distribution%20Spreadsheet%20Analysis%20Report.xlsx)
 - [Production Capacity and Outsourcing Spreadsheet Analysis Report](https://github.com/ephremglu/Data-Analytics/blob/main/Production%20Capacity%20and%20Outsourcing%20Spreadsheet%20Analysis%20Report.xlsx)
 - [Customer Satisfaction Spreadsheet Analysis Report](https://github.com/ephremglu/Data-Analytics/blob/main/Customer%20Satisfaction%20Spreadsheet%20Analysis%20Report.xlsx)
+- [Company Branch Satisfaction Spreadsheet Analysis Report](https://github.com/ephremglu/Data-Analytics/blob/main/Company%20Branch%20Satisfaction%20Spreadsheet%20Analysis%20Report.xlsx)
+- [Network Modeling Spreadsheet Analysis Report](https://github.com/ephremglu/Data-Analytics/blob/main/Network%20Modeling%20Spreadsheet%20Analysis%20Report.xlsx)
+- [Integer Programming Spreadsheet Analysis Report](https://github.com/ephremglu/Data-Analytics/blob/main/Integer%20Programming%20Spreadsheet%20Analysis%20Report.xlsx)
+- [NLP and Evolutionary Optimization Analysis Report](https://github.com/ephremglu/Data-Analytics/blob/main/NLP%20and%20Evolutionary%20Optimization%20Analysis%20Report.xlsx)
+- [Stock Return Spreadsheet Analysis Report](https://github.com/ephremglu/Data-Analytics/blob/main/Stock%20Return%20Spreadsheet%20Analysis%20Report.xlsx)
+- [Product Marketing Analysis Report](https://github.com/ephremglu/Data-Analytics/blob/main/Product%20Marketing%20Analysis%20Report.xlsx)
+- [The Monty Hall (Let's Make A Deal) Spreadsheet Analysis Report](https://github.com/ephremglu/Data-Analytics/blob/main/The%20Monty%20Hall%20(Let's%20Make%20A%20Deal)%20Spreadsheet%20Analysis%20Report.xlsm)
+- [Department Store Inventory Spreadsheet Analysis Report](https://github.com/ephremglu/Data-Analytics/blob/main/Department%20Store%20Inventory%20Spreadsheet%20Analysis%20Report.xlsm)
+- [Coin Toss Spreadsheet Analysis Report](https://github.com/ephremglu/Data-Analytics/blob/main/Coin%20Toss%20Spreadsheet%20Analysis%20Report.xlsm)
+- [Refrigerator Warranty Spreadsheet Analysis Report](https://github.com/ephremglu/Data-Analytics/blob/main/Refrigerator%20Warranty%20Spreadsheet%20Analysis%20Report.xlsm)
+- [Golf Tournament (Wins, Ties) Spreadsheet Analysis Report](https://github.com/ephremglu/Data-Analytics/blob/main/Golf%20Tournament%20(Wins%2C%20Ties)%20Spreadsheet%20Analysis%20Report.xlsx)
 
 ## License & Copywrite
 
