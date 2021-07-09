@@ -1,9 +1,11 @@
-# Data-Analytics
+# Data Analytics
 
 **Version 1.0.0**
 
-My Data Analytics completed and on-going projects.
+This repository contains my current and on-going Data Analytics projects. My current projects fall under three main categories: Advanced Business Analytics, Advanced Business Forecasting, and Optimization Via Management. File contents can be deduced by the file name and include a description of the research objective. Here is the project breakdown. 
 
+	Advanced Business Analytics:
+		
 
 ## License & Copywrite
 
