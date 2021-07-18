@@ -55,4 +55,4 @@ This repository contains my current and on-going Data Analytics projects. My cur
 
 ## License & Copywrite
 
-© Ephrem Glushchenko, https://ephremglu.github.io/
+[CC BY-NC-ND ](https://github.com/ephremglu/Data-Analytics/blob/main/LICENSE), © Ephrem Glushchenko, https://ephremglu.github.io/
