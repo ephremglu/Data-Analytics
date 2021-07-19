@@ -1,4 +1,4 @@
-# Data Analytics Personal Projects
+# Data Analytics Projects
 
 **Version 1.0.0**
 
