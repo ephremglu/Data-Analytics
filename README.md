@@ -5,6 +5,11 @@
 This repository contains my current and on-going Data Analytics projects. My current projects fall under three main categories: Advanced Business Analytics, Advanced Business Forecasting, and Optimization Via Management. File contents can be deduced by the file name and each file includes a description of the research objective within it. Here is the project breakdown. 
 
 
+### Tableau Projects:
+
+- [Avg Price of Used iPhones Sold on ebay](https://public.tableau.com/app/profile/ephrem.glushchenko/viz/AvgPriceofUsediPhonesSoldonebay/AvgPriceofUsediPhones)
+
+
 ### Advanced Business Analytics:
 
 - [The 6 Step Process for Hypothesis Testing](https://github.com/ephremglu/Data-Analytics/blob/main/Hypothesis%20Testing%20Process.pdf)
@@ -55,4 +60,4 @@ This repository contains my current and on-going Data Analytics projects. My cur
 
 ## License & Copywrite
 
-[CC BY-NC-ND ](https://github.com/ephremglu/Data-Analytics/blob/main/LICENSE), © Ephrem Glushchenko, https://ephremglu.github.io/
+[CC BY-NC-ND](https://github.com/ephremglu/Data-Analytics/blob/main/LICENSE), © Ephrem Glushchenko, https://ephremglu.github.io/
